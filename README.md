@@ -47,12 +47,8 @@ Mobile-friendly responsive design
 Interactive hover effects and animations
 Easy navigation between pages
 Educational institution website template
-🚀 How to Run
 
-Download or clone the repository:
 
-git clone https://github.com/your-username/ak-oxford-college-website.git
-Open index.html in any web browser.
 Ensure all images, videos, and icons are placed in the correct project folder.
 📸 Website Sections
 Home
